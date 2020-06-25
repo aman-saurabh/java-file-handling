@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JavaIOFileHandling.iml" filepath="$PROJECT_DIR$/JavaIOFileHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-file-handling.iml" filepath="$PROJECT_DIR$/java-file-handling.iml" />
     </modules>
   </component>
 </project>
